@@ -1,0 +1,7 @@
+Output Differences between my functions and Python's functions
+     exp(1) cos(pi/6) sin(pi/6)
+N=1  0.7183   0.0031  0.0236
+N=2  0.2183   0.0000  0.0003
+N=3  0.0516   0.0000  0.0000
+N=4  0.0099   0.0000  0.0000
+N=5  0.0016   0.0000  0.0000
